@@ -1,0 +1,1 @@
+local Library = loadstring(game:HttpGet("https://github.com/Blastenio/Blastenio.git"))
